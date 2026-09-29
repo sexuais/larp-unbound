@@ -1,0 +1,13 @@
+{
+  "id": "sexuais.unbound-test",
+  "name": "Unbound Test",
+  "description": "Teste mínimo do carregador de plugins do Unbound.",
+  "authors": [
+    {
+      "name": "sexuais",
+      "id": "1"
+    }
+  ],
+  "version": "1.0.0",
+  "main": "dist/index.js"
+}
