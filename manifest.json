@@ -1,0 +1,13 @@
+{
+  "id": "sexuais.larp-unbound",
+  "name": "Larp",
+  "description": "Local Discord profile LARP for username, display name, ID, discriminator and local badge flags.",
+  "authors": [
+    {
+      "name": "sexuais",
+      "id": "1"
+    }
+  ],
+  "version": "0.2.0",
+  "main": "index.js"
+}
